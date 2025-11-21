@@ -9,3 +9,5 @@ I am currently working on distributed port-Hamiltonian systems and their discret
 # Why am I on GitHub?
 
 I am working on a collection of python methods and classes in the [SCRIMP project](https://github.com/g-haine/scrimp), intended to speed up the coding process of structure-preserving discretization of port-Hamiltonian systems.
+
+I also developped and maintain the bibliographic database about port-Hamiltonian systems [PHRAISE](https://g-haine.github.io/phraise/).
