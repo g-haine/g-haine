@@ -10,4 +10,4 @@ I am currently working on distributed port-Hamiltonian systems and their discret
 
 I am working on a collection of python methods and classes in the [SCRIMP project](https://github.com/g-haine/scrimp), intended to speed up the coding process of structure-preserving discretization of port-Hamiltonian systems.
 
-I also developped [BibReview](https://g-haine.github.io/bibreview/) -- a configurable bibliographic review engine for collecting, curating, and publishing scholarly literature as static websites -- and maintain the bibliographic database about port-Hamiltonian systems [PHRAISE](https://g-haine.github.io/phraise/) as a demonstrator.
+I also developped [BibReview]([https://github.com/g-haine/bibreview/) -- a configurable bibliographic review engine for collecting, curating, and publishing scholarly literature as static websites -- and maintain the bibliographic database about port-Hamiltonian systems [PHRAISE](https://github.com/g-haine/phraise/) as a demonstrator.
